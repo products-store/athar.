@@ -495,9 +495,9 @@ button:hover {
 }
 
 .color-btn[data-color="yellow"] {
-    background-color: #ffd600;
+    background-color: #ffe97a;
     color: #333333;
-    border-color: #ffd600;
+    border-color: #ffe97a;
 }
 .color-btn[data-color="yellow"].active {
     outline: 2px solid var(--primary-color);
@@ -1865,6 +1865,7 @@ button:hover {
 .hamburger-menu {
     color: #ffffff !important;
 }
+
 
 
 
