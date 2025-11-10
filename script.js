@@ -7,68 +7,68 @@
         colors: {
             'black': {
                 name: 'أسود',
-                main: 'images/black-1.JPG',
+                main: 'images/black-1.jpg',
                 thumbnails: [
-                    'images/black-1.JPG',
-                    'images/black-2.JPG',
-                    'images/black-3.JPG',
-                    'images/black-4.JPG',
-                    'images/black-5.JPG'
+                    'images/black-1.jpg',
+                    'images/black-2.jpg',
+                    'images/black-3.jpg',
+                    'images/black-4.jpg',
+                    'images/black-5.jpg'
                 ],
                 availableSizes: ['52', '54', '56', '58']
             },
             'white': {
                 name: 'أبيض',
-                main: 'images/white-1.JPG',
+                main: 'images/white-1.jpg',
                 thumbnails: [
-                    'images/white-1.JPG',
-                    'images/white-2.JPG',
-                    'images/white-3.JPG',
-                    'images/white-4.JPG'
+                    'images/white-1.jpg',
+                    'images/white-2.jpg',
+                    'images/white-3.jpg',
+                    'images/white-4.jpg'
                 ],
                 availableSizes: ['52', '54']
             },
             'moussy-gray': {
                 name: 'رمادي موشتي',
-                main: 'images/moussy-gray-1.JPG',
+                main: 'images/moussy-gray-1.jpg',
                 thumbnails: [
-                    'images/moussy-gray-1.JPG',
-                    'images/moussy-gray-2.JPG',
-                    'images/moussy-gray-3.JPG',
-                    'images/moussy-gray-4.JPG',
+                    'images/moussy-gray-1.jpg',
+                    'images/moussy-gray-2.jpg',
+                    'images/moussy-gray-3.jpg',
+                    'images/moussy-gray-4.jpg',
                 ],
                 availableSizes: ['52', '54', '56']
             },
             'night-blue': {
                 name: 'أزرق ليلي',
-                main: 'images/night-blue-1.JPG',
+                main: 'images/night-blue-1.jpg',
                 thumbnails: [
-                    'images/night-blue-1.JPG',
-                    'images/night-blue-2.JPG',
-                    'images/night-blue-3.JPG',
-                    'images/night-blue-4.JPG',
+                    'images/night-blue-1.jpg',
+                    'images/night-blue-2.jpg',
+                    'images/night-blue-3.jpg',
+                    'images/night-blue-4.jpg',
                 ],
                 availableSizes: ['52', '54', '56', '58']
             },
             'brown': {
                 name: 'بني',
-                main: 'images/brown-1.JPG',
+                main: 'images/brown-1.jpg',
                 thumbnails: [
-                    'images/brown-1.JPG',
-                    'images/brown-2.JPG',
-                    'images/brown-3.JPG',
-                    'images/brown-4.JPG',
+                    'images/brown-1.jpg',
+                    'images/brown-2.jpg',
+                    'images/brown-3.jpg',
+                    'images/brown-4.jpg',
                 ],
                 availableSizes: ['52', '54', '56', '58']
             },
             'yellow': {
                 name: 'أصفر',
-                main: 'images/yellow-1.JPG',
+                main: 'images/yellow-1.jpg',
                 thumbnails: [
-                    'images/yellow-1.JPG',
-                    'images/yellow-2.JPG',
-                    'images/yellow-3.JPG',
-                    'images/yellow-4.JPG'
+                    'images/yellow-1.jpg',
+                    'images/yellow-2.jpg',
+                    'images/yellow-3.jpg',
+                    'images/yellow-4.jpg'
                 ],
                 availableSizes: ['52', '54', '56', '58']
             }
@@ -326,3 +326,4 @@ document.addEventListener('DOMContentLoaded', () => {
         price: productDetails.price
     });
 });
+
