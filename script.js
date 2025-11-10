@@ -13,7 +13,7 @@
                     'images/black-2.jpg',
                     'images/black-3.jpg',
                     'images/black-4.jpg',
-                    'images/black-5.jpg'
+                    'images/black-5.jpG'
                 ],
                 availableSizes: ['52', '54', '56', '58']
             },
@@ -326,4 +326,5 @@ document.addEventListener('DOMContentLoaded', () => {
         price: productDetails.price
     });
 });
+
 
